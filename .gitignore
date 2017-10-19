@@ -2,3 +2,5 @@
 BUILD/
 mbed_settings.py
 mbed_settings.pyc
+src/LPC1768/
+src/NUCLEO_F401RE/
